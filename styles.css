@@ -1,17 +1,28 @@
 .container {
   width: 70%;
   margin: auto;
-  text-align: center;
 }
 
 .dice {
-  text-align: center;
   display: inline-block;
+}
 
+button{
+  background-color: whitesmoke;
+  color: red;
+  font-weight: bold;
+  font-size: large;
+  width: 10%;
+  border-style: none;
+  border-radius: 5px;
+  margin-top: 4%;
+  padding: 1%;
 }
 
 body {
   background-color: #393E46;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
 }
 
 h1 {
@@ -25,7 +36,6 @@ h1 {
 p {
   font-size: 2rem;
   color: #4ECCA3;
-  font-family: 'Indie Flower', cursive;
 }
 
 img {
@@ -33,9 +43,6 @@ img {
 }
 
 footer {
-  margin-top: 5%;
+   margin-top: 3%;
   color: #EEEEEE;
-  text-align: center;
-  font-family: 'Indie Flower', cursive;
-
 }
