@@ -8,8 +8,8 @@
 }
 
 button{
-  background-color: black;
-  color: white;
+  background-color: whitesmoke;
+  color: black;
   font-weight: bold;
   font-size: large;
   width: 10%;
@@ -17,6 +17,11 @@ button{
   border-radius: 5px;
   margin-top: 4%;
   padding: 1%;
+}
+
+button:hover{
+  background-color: black;
+  color: whitesmoke;
 }
 
 body {
