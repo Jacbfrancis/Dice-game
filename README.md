@@ -1,7 +1,7 @@
 
 # Dice Game
 
-<h1>Dice Game made with HTML, CSS and Javascript</h1>.
+<h1>Dice Game made with HTML, CSS and Javascript</h1>
 Practicing javascript DOM manipulation to create a dice game website.Uunder the guidance of Dr. Angela Yu. When the "roll dice" button is clicked, The player with the higher number wins, if there is a tie, they draw. That's it, time to roll the dice 🎲🎲
 
 ## Table of contents
